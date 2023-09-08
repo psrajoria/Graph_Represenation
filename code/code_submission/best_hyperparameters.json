@@ -1,0 +1,1 @@
+{"return_param": 2.832290311184182, "in_out_param": 1.3013213230530574, "num_walks": 6, "walk_length": 77, "window_size": 8, "dimension": 256, "epochs": 50, "negative": 3, "batch_words": 16, "learning_rate": 0.0001, "min_count": 1, "weight_decay": 0.0001}
